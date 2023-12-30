@@ -27,10 +27,6 @@ Develop an image compression model using KMeans clustering to reduce color diver
 ## Results
 The project successfully compressed images, maintaining essential features by capturing dominant color palettes through KMeans clustering. It demonstrates expertise in image processing, machine learning, and practical algorithm implementation.
 
-## Usage
-1. Clone the repository.
-2. Install required libraries using `pip install -r requirements.txt`.
-3. Run the `compression_script.py` script to compress images.
 
 ## Dependencies
 - NumPy
